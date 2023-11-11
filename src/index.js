@@ -1,3 +1,8 @@
+import { fetchBreeds, fetchCatByBreed } from "./cat-api";
+
+import './styles.css';
+
+
 
 
 const ref = {
